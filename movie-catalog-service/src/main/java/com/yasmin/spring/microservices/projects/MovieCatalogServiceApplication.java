@@ -24,3 +24,4 @@ public class MovieCatalogServiceApplication {
 
 // http://localhost:8082/catalog/1     - micro service
 //http://localhost:8082/hystrix        - hystrix dashboard
+//Hystrix Stream: http://localhost:8082/actuator/hystrix.stram - graph
