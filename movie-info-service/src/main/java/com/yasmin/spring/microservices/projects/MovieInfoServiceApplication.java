@@ -13,3 +13,8 @@ public class MovieInfoServiceApplication {
 	}
 
 }
+
+
+
+//http://localhost:8083/movies/1      - Micro service
+//http://localhost:8081/movies/1      - Same micro service running in different port

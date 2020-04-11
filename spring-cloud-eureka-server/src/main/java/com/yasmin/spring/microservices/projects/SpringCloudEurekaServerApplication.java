@@ -17,6 +17,8 @@ public class SpringCloudEurekaServerApplication {
 }
 
 
+// http://localhost:8761/ - Eureka server UI
+
 //Eureka server will run in http://localhost:8761/ by default. If you wanted to change the port, then use "server.port=portno" in aplication.propertties. 
 
 
