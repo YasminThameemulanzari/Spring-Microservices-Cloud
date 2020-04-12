@@ -48,6 +48,12 @@
     <artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
     <version>2.2.1.RELEASE</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-ribbon -->
+<dependency>
+    <groupId>org.springframework.cloud</groupId>
+    <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
+    <version>2.2.2.RELEASE</version>
+</dependency>
 
 		
 		<dependency>
